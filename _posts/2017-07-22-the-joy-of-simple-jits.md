@@ -2,6 +2,8 @@
 layout: post
 title:  "欢迎来到JIT的世界: The Joy of Simple JITs"
 date:   2017-07-22 20:22:00 +0800
+tags: JIT
+categories: Openresty
 ---
 
 这个例子展示了简单的JIT(即时编译器)可以多么简单和有趣。JIT这个词让人联想到高深的魔法，只有顶尖的编译器团队才会想到使用。你可能会想到JVM或者.NET这样有数十万行代码的庞大的运行时库。你看不到像"Hello, World!"那样的JIT, 通过简短的代码做些有趣的事情。这篇文章尝试改变这个现状。

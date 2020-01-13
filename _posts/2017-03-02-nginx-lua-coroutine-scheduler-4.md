@@ -2,6 +2,8 @@
 layout: post
 title:  "ngx_lua中的协程调度(四)"
 date:   2017-03-02 22:57:00 +0800
+tags: Openresty Nginx Lua 协程
+categories: Openresty
 ---
 
 ## ngx_lua中访问多个第三方服务

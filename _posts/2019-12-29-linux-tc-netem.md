@@ -2,6 +2,8 @@
 layout: post
 title:  "Linux下使用tc和netem模拟复杂网络环境"
 date:   2019-12-29 20:58:00 +0800
+tags: tc netem
+categories: 日常记录
 ---
 
 netem(Network Emulator)可以用来对网卡发出的数据包进行增加延迟、丢包、重复、乱序等处理，来模拟复杂网络环境。netem的设置依赖tc命令，tc是Linux内核提供的流量控制工具。

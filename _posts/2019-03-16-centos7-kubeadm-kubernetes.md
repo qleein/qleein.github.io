@@ -2,6 +2,8 @@
 layout: post
 title:  "CentOS 7 使用kubeadm 部署 Kubernetes"
 date:   2019-03-16 14:58:00 +0800
+tags: Kubernetes Kubeadm
+categories: 日常记录
 ---
 
 ### 关闭swap

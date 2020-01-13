@@ -2,6 +2,8 @@
 layout: post
 title:  "SSL证书格式"
 date:   2016-10-26 22:51:00 +0800
+tags: SSL证书
+categories: 日常记录
 ---
 
 ## PKCS

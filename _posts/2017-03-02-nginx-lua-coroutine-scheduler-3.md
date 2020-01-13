@@ -2,6 +2,8 @@
 layout: post
 title:  "ngx_lua中的协程调度(三)"
 date:   2017-03-01 22:42:00 +0800
+tags: Openresty Nginx Lua 协程
+categories: Openresty
 ---
 
 通过lua-nginx-module的ngx.socket可以方便的建立与其他服务器的连接和数据传输，这些也是lua-resty-redis，lua-resty-mysql等众多请求第三方服务的模块的基础。这里只介绍ngx.socket.tcp，udp的实现类似。

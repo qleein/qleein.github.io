@@ -2,6 +2,8 @@
 layout: post
 title:  "bash执行shell脚本时报错 save_bash_input: buffer already exists for new fd XXX"
 date:   2018-05-28 23:11:00 +0800
+tags: bash
+categories: 日常记录
 ---
 
 最近发现在lua中通过os.execute执行系统shell脚本时，偶尔会发生错误退出，最后发现是bash本身的问题。

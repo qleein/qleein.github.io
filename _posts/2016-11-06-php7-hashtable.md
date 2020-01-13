@@ -2,6 +2,8 @@
 layout: post
 title:  "PHP7中HashTable实现"
 date:   2016-11-06 23:04:00 +0800
+tags: PHP 哈希
+categories: 日常记录
 ---
 
 ## 结构定义

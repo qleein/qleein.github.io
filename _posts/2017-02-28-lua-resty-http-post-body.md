@@ -2,6 +2,8 @@
 layout: post
 title:  "lua-resty-http上传数据"
 date:   2017-02-28 21:56:00 +0800
+tags: Openresty lua-resty-http
+categories: Openresty
 ---
 
 ## lua-resty-http上传数据

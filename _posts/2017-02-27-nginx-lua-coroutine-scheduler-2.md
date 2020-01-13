@@ -2,6 +2,8 @@
 layout: post
 title:  "ngx_lua中的协程调度（二）阻塞API的处理"
 date:   2017-02-27 20:34:00 +0800
+tags: Openresty Nginx Lua 协程
+categories: Openresty
 ---
 
 ## 协程的挂起与回复

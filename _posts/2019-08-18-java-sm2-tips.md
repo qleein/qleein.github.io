@@ -2,6 +2,8 @@
 layout: post
 title:  "对接JAVA SM2加密遇到的坑 "
 date:   2019-08-18 19:45:00 +0800
+tags: JAVA SM2
+categories: 日常记录
 ---
 
 遇到有接口需要使用国密的SM2算法，对方使用的是JAVA，我们使用的是go，原以为都是标准算法不会有什么大问题，结果巨坑无法..

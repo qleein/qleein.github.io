@@ -2,6 +2,8 @@
 layout: post
 title:  "基于sentinel构建高可用redis集群的注意事项"
 date:   2019-08-18 21:15:00 +0800
+tags: redis sentinel 
+categories: 日常记录
 ---
 
 部署redis高可用集群时，通常会用到redis官方的sentinel。sentinel监控master状况，master宕机时进行集群master的故障转移。部署时方法网上很多，这里列出了一些需要注意的事项。

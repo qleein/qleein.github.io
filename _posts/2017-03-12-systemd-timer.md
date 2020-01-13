@@ -2,6 +2,8 @@
 layout: post
 title:  "systemd创建定时任务"
 date:   2017-03-12 21:28:00 +0800
+tags: systemd 定时任务
+categories: 日常记录
 ---
 
 ## Systemd or Cron

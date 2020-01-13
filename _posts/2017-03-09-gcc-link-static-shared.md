@@ -2,6 +2,8 @@
 layout: post
 title:  "gcc链接选项 链接静态库和动态库"
 date:   2017-03-09 00:01:00 +0800
+tags: gcc 链接
+categories: 编译
 ---
 
 ## 链接库

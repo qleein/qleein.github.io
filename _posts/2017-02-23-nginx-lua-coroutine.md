@@ -2,6 +2,8 @@
 layout: post
 title:  "ngx_lua中的lua协程"
 date:   2017-02-23 23:53:00 +0800
+tags: Openresty Nginx Lua 协程
+categories: Openresty
 ---
 
 Nginx是事件驱动的异步处理方式，Lua语言本身是同步处理，但是Lua原生支持协程，给Nginx与Lua的结合提供了机会。

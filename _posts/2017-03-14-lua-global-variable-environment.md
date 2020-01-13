@@ -2,6 +2,8 @@
 layout: post
 title:  "Lua中的全局变量与环境"
 date:   2017-03-14 00:02:00 +0800
+tags: Lua
+categories: Openresty
 ---
 
 ## 环境的概念

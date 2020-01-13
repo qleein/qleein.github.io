@@ -2,6 +2,8 @@
 layout: post
 title:  "ngx_lua中的协程调度（一）在Nginx中嵌入Lua环境"
 date:   2017-02-26 18:44:00 +0800
+tags: Openresty Nginx Lua 协程
+categories: Openresty
 ---
 
 ## 命令行中执行lua

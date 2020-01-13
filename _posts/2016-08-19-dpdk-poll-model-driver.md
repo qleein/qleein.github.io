@@ -2,6 +2,8 @@
 layout: post
 title:  "intel dpdk的Poll Model Driver机制简介"
 date:   2016-08-19 22:12:00 +0800
+tags: dpdk
+categories: 日常记录
 ---
 
 最近基于intell的dpdk框架开发高性能的Dns服务器，才开始接触dpdk。 

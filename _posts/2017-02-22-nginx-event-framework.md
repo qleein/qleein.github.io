@@ -2,6 +2,8 @@
 layout: post
 title:  "Nginx事件驱动框架"
 date:   2017-02-22 22:21:00 +0800
+tags: Nginx
+categories: Nginx
 ---
 
 最初的Web服务器如Apache，采用的是fork and run的模式，对每个到来的连接，fork一个进程去处理，处理完成后进程退出。优点是编程实现简单，缺点是并发处理能力不足。为应对高并发的处理，以Nginx为代表的异步处理方式应运而生。

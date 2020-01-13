@@ -2,6 +2,8 @@
 layout: post
 title:  "LuaJIT的变量实现-TValue"
 date:   2017-09-25 22:37:00 +0800
+tags: LuaJIT
+categories: Openresty
 ---
 
 Lua是动态类型的编程语言，变量的值可以是数值、字符串、table等所有支持的数据类型。在Lua虚拟机中每个变量都是用一个TValue结构体表示。LuaJIT出于效率的考虑重新组织了TValue结构体。

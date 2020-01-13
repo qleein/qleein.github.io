@@ -2,6 +2,8 @@
 layout: post
 title:  "ngx_lua的协程调度(五)之ngx_http_lua_run_thread"
 date:   2017-03-06 22:46:00 +0800
+tags: Openresty Nginx Lua 协程
+categories: Openresty
 ---
 
 lua-nginx-module中，在Log，Header_filter，Body_filter几个阶段直接调用lua_pcall执行Lua脚本，而在Access，Rewrite，Content等阶段Lua脚本的执行是在ngx_http_lua_run_thread函数中调用lua_resume实现的。再根据lua_resume的返回值进行处理。

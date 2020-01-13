@@ -2,6 +2,8 @@
 layout: post
 title:  "openssl AES 加密/解密"
 date:   2017-11-01 22:19:00 +0800
+tags: Openssl AES
+categories: 日常记录
 ---
 
 ## AES算法

@@ -2,6 +2,8 @@
 layout: post
 title:  "openresty的agent进程"
 date:   2017-05-15 23:39:00 +0800
+tags: Openresty
+categories: Openresty
 ---
 
 最近Openresty项目增加了一个新的功能，可以在Nginx中开启一个agent进程，这个agent进程不像Nginx的worker进程那样监听服务端口然后对外提供服务，而是继承了master进程的用户权限。

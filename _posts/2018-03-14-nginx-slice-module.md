@@ -2,6 +2,8 @@
 layout: post
 title:  "Nginx的文件分片-slice模块"
 date:   2018-03-14 23:23:00 +0800
+tags: Nginx 文件分片
+categories: Nginx
 ---
 
 Nginx的slice模块可以将一个请求分解成多个子请求，每个子请求返回响应内容的一个片段，让大文件的缓存更有效率。

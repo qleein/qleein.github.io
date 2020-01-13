@@ -2,6 +2,8 @@
 layout: post
 title:  "程序的调试信息"
 date:   2018-07-22 16:14:00 +0800
+tags: 调试 DWARF
+categories: 日常记录
 ---
 
 调试二进制程序时，经常要借助GDB工具，跟踪程序的执行流程，获取程序执行时变量的值，以发现问题所在。GDB能得到这些信息，是因为编译程序时，编译器保存了相应的信息。Linux下的可执行程序和链接库一般为ELF格式(Executable and Linking Format)，调试信息以DWARF格式保存。

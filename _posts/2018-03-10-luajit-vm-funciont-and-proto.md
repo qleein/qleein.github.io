@@ -2,6 +2,8 @@
 layout: post
 title:  "LuaJIT虚拟机-函数与原型"
 date:   2018-03-10 22:59:00 +0800
+tags: LuaJIT
+categories: Openresty
 ---
 
 Lua中的函数(或Function)，其实应该是闭包(Closure)，闭包可以认为是函数+外部变量，这里为了简单没有作区分，函数原型(或Proto)可以认为是函数的静态表示。

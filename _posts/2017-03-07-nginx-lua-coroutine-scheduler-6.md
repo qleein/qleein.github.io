@@ -2,6 +2,8 @@
 layout: post
 title:  "ngx_lua中的协程调度(六)之ngx_http_lua_run_posted_thread"
 date:   2017-03-07 23:20:00 +0800
+tags: Openresty Nginx Lua 协程
+categories: Openresty
 ---
 
 ## ngx_http_lua_run_posted_thread

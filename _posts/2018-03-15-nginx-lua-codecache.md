@@ -2,6 +2,8 @@
 layout: post
 title:  "ngx_lua的代码缓存"
 date:   2018-03-15 22:48:00 +0800
+tags: Openresty
+categories: Openresty
 ---
 
 Lua代码的执行一般要先将代码变成成字节码，然后再Lua虚拟机中执行字节码。lua-nginx-module将编译后的结果保存了下来，这样只需要编译一次，之后便可以直接使用，省去了编译的消耗。

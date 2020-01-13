@@ -2,6 +2,8 @@
 layout: post
 title:  "第一个tensorflow程序"
 date:   2018-03-18 22:39:00 +0800
+tags: tensorflow
+categories: 日常记录
 ---
 
 使用docker镜像运行一个tensorflow的Hello World项目。
